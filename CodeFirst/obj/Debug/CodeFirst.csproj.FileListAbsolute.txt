@@ -1,0 +1,14 @@
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\Database2.mdf
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\Database2_log.ldf
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache
+C:\Users\plee\Desktop\EF_Practice\CodeFirst\obj\Debug\CodeFirst.Migrations.AddUsers_.resources

@@ -1,0 +1,9 @@
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EF_Practice.dll
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EF_Practice.pdb
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\obj\Debug\EF_Practice.dll
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\obj\Debug\EF_Practice.pdb
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.dll
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.dll
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.xml
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.xml
+C:\Users\plee\Desktop\EF_Practice\EF_Practice\obj\Debug\EF_Practice.csprojResolveAssemblyReference.cache
