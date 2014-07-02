@@ -7,3 +7,12 @@ C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.dll
 C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.xml
 C:\Users\plee\Desktop\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.xml
 C:\Users\plee\Desktop\EF_Practice\EF_Practice\obj\Debug\EF_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EF_Practice.dll
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EF_Practice.pdb
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.dll
+C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.pdb

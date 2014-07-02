@@ -11,6 +11,12 @@ namespace EF_Practice
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            WebUserControl1.Btn111.Click += (o, args) => Response.Write("webform1");
+        }
+
+
+        protected void Page_LoadComplete(object sender, EventArgs e)
+        {
 
         }
     }
