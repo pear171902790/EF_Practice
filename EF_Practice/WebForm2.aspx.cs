@@ -16,11 +16,24 @@ namespace EF_Practice
 
         }
 
-        protected void Btn_Click(object sender, EventArgs e)
+        protected void Btn1_Click(object sender, EventArgs e)
         {
-            Label.Text = "Ajax";
-            ScriptManager.GetCurrent(this).RegisterDataItem(myUP, "ajax");
+            Label1.Text = "Ajax";
+            IsAlert = true;
+            ScriptManager.GetCurrent(this).RegisterDataItem(myUP1, "ajax");
 
+        }
+
+        protected void Btn22_Click(object sender, EventArgs e)
+        {
+            TB2.Text = "from 22";
+            Label1.Text = "from 22";
+            myUP1.Update();
+        }
+
+        protected void Btn2_Click(object sender, EventArgs e)
+        {
+            TB22.Text = "from 2";
         }
     }
 }

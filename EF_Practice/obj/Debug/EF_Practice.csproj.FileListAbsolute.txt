@@ -16,3 +16,12 @@ C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\bin\EntityFramew
 C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.dll
 C:\Users\Administrator\Documents\GitHub\EF_Practice\EF_Practice\obj\Debug\EF_Practice.pdb
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EF_Practice.dll
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EF_Practice.pdb
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EntityFramework.dll
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.dll
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EntityFramework.xml
+E:\EF_Practice\EF_Practice\EF_Practice\bin\EntityFramework.SqlServer.xml
+E:\EF_Practice\EF_Practice\EF_Practice\obj\Debug\EF_Practice.csprojResolveAssemblyReference.cache
+E:\EF_Practice\EF_Practice\EF_Practice\obj\Debug\EF_Practice.dll
+E:\EF_Practice\EF_Practice\EF_Practice\obj\Debug\EF_Practice.pdb
